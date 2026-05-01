@@ -1,5 +1,7 @@
 # 18675-Final-Project
 
+Members: Alan Chen, Mattias Hollmann
+
 Final project for **18-675**. The project investigates using a **Kalman filter**
 to reconstruct missing (masked) dimensions of an environment's observation
 space, and trains modern continuous-control RL agents (**PPO**, **SAC**, **TD3**)
