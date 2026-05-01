@@ -1,0 +1,79 @@
+Episode   10 | Avg Reward: -1205.88 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   20 | Avg Reward: -1403.10 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1343.86
+Episode   30 | Avg Reward: -1356.07 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   40 | Avg Reward: -1309.21 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   50 | Avg Reward: -1373.34 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1417.31
+Episode   60 | Avg Reward: -1324.19 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   70 | Avg Reward: -1329.05 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1306.04
+Episode   80 | Avg Reward: -1392.93 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   90 | Avg Reward: -1488.02 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  100 | Avg Reward: -1309.00 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1406.91
+Episode  110 | Avg Reward: -1462.63 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  120 | Avg Reward: -1446.27 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1447.23
+Episode  130 | Avg Reward: -1378.99 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  140 | Avg Reward: -1279.53 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  150 | Avg Reward: -1358.86 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1413.09
+Episode  160 | Avg Reward: -1335.99 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  170 | Avg Reward: -1489.11 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1426.20
+Episode  180 | Avg Reward: -1367.34 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  190 | Avg Reward: -1280.74 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  200 | Avg Reward: -1386.78 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1342.86
+Episode  210 | Avg Reward: -1357.65 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  220 | Avg Reward: -1404.10 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1425.94
+Episode  230 | Avg Reward: -1364.36 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  240 | Avg Reward: -1299.80 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  250 | Avg Reward: -1329.60 | Est Loss: nan | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1298.84
+Episode  260 | Avg Reward: -1417.64 | Est Loss: 4.2560 | Q diag: [0.0119, 0.0873] | R diag: [0.0825, 0.1121]
+Episode  270 | Avg Reward: -1531.88 | Est Loss: 2.8935 | Q diag: [0.0071, 0.6423] | R diag: [0.0222, 0.0789]
+  → Eval (10 eps): -1132.37
+Episode  280 | Avg Reward: -1371.86 | Est Loss: 2.2949 | Q diag: [0.0055, 1.4171] | R diag: [0.0090, 0.0246]
+Episode  290 | Avg Reward: -1155.92 | Est Loss: 2.0115 | Q diag: [0.0046, 2.5516] | R diag: [0.0040, 0.0038]
+Episode  300 | Avg Reward:  -960.35 | Est Loss: 2.0825 | Q diag: [0.0047, 3.9113] | R diag: [0.0021, 0.0022]
+  → Eval (10 eps): -856.62
+Episode  310 | Avg Reward:  -740.87 | Est Loss: 1.9424 | Q diag: [0.0082, 5.7504] | R diag: [0.0013, 0.0017]
+Episode  320 | Avg Reward:  -788.65 | Est Loss: 2.0281 | Q diag: [0.0158, 9.9931] | R diag: [0.0008, 0.0014]
+  → Eval (10 eps): -1192.38
+Episode  330 | Avg Reward: -1175.64 | Est Loss: 1.9783 | Q diag: [0.0371, 27.5131] | R diag: [0.0006, 0.0011]
+Episode  340 | Avg Reward: -1368.51 | Est Loss: 1.9985 | Q diag: [0.1321, 126.6942] | R diag: [0.0004, 0.0009]
+Episode  350 | Avg Reward: -1444.99 | Est Loss: 2.0040 | Q diag: [0.4238, 517.5039] | R diag: [0.0004, 0.0008]
+  → Eval (10 eps): -1445.03
+Episode  360 | Avg Reward: -1362.94 | Est Loss: 2.0275 | Q diag: [0.7631, 1424.9735] | R diag: [0.0004, 0.0008]
+Episode  370 | Avg Reward: -1376.42 | Est Loss: 1.9366 | Q diag: [0.9579, 2835.0171] | R diag: [0.0004, 0.0008]
+  → Eval (10 eps): -1387.87
+Episode  380 | Avg Reward: -1373.80 | Est Loss: 1.8994 | Q diag: [1.0275, 4389.3394] | R diag: [0.0004, 0.0008]
+Episode  390 | Avg Reward: -1381.52 | Est Loss: 1.9628 | Q diag: [1.0404, 5467.1426] | R diag: [0.0003, 0.0008]
+Episode  400 | Avg Reward: -1386.38 | Est Loss: 1.9724 | Q diag: [1.0393, 5486.4849] | R diag: [0.0003, 0.0008]
+  → Eval (10 eps): -1468.01
+Episode  410 | Avg Reward: -1420.43 | Est Loss: 1.8237 | Q diag: [1.0307, 5110.0972] | R diag: [0.0003, 0.0008]
+Episode  420 | Avg Reward: -1526.02 | Est Loss: 1.8599 | Q diag: [1.0288, 4792.8765] | R diag: [0.0003, 0.0007]
+  → Eval (10 eps): -1461.77
+Episode  430 | Avg Reward: -1383.12 | Est Loss: 1.8286 | Q diag: [1.0251, 4367.1797] | R diag: [0.0003, 0.0007]
+Episode  440 | Avg Reward: -1418.16 | Est Loss: 1.8153 | Q diag: [1.0161, 4111.5557] | R diag: [0.0003, 0.0007]
+Episode  450 | Avg Reward: -1470.60 | Est Loss: 1.8212 | Q diag: [1.0140, 3741.8857] | R diag: [0.0003, 0.0007]
+  → Eval (10 eps): -1492.40
+Episode  460 | Avg Reward: -1490.59 | Est Loss: 1.7995 | Q diag: [1.0115, 3433.6506] | R diag: [0.0003, 0.0007]
+Episode  470 | Avg Reward: -1449.51 | Est Loss: 1.9488 | Q diag: [1.0106, 3181.4890] | R diag: [0.0003, 0.0007]
+  → Eval (10 eps): -1509.61
+Episode  480 | Avg Reward: -1328.29 | Est Loss: 1.7159 | Q diag: [1.0120, 2809.6084] | R diag: [0.0003, 0.0007]
+Episode  490 | Avg Reward: -1487.38 | Est Loss: 1.8778 | Q diag: [1.0082, 2497.8589] | R diag: [0.0003, 0.0007]
+Episode  500 | Avg Reward: -1433.56 | Est Loss: 1.8785 | Q diag: [1.0076, 2231.4812] | R diag: [0.0003, 0.0007]
+  → Eval (10 eps): -1393.71
+
+==================================================
+Final learned EKF parameters:
+Q (process noise):
+[[1.0076406e+00 1.3048217e+01]
+ [1.3048217e+01 2.2314812e+03]]
+R (measurement noise):
+[[ 2.7782941e-04 -8.0196449e-05]
+ [-8.0196449e-05  6.7551795e-04]]

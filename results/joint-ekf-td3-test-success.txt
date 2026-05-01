@@ -1,0 +1,79 @@
+Episode   10 | Avg Reward: -1266.22 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   20 | Avg Reward: -1234.28 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1187.01
+Episode   30 | Avg Reward: -1138.07 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   40 | Avg Reward: -1105.37 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   50 | Avg Reward: -1181.68 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1195.80
+Episode   60 | Avg Reward: -1446.18 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   70 | Avg Reward: -1375.85 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1220.22
+Episode   80 | Avg Reward: -1314.34 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode   90 | Avg Reward: -1493.97 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  100 | Avg Reward: -1373.02 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1410.46
+Episode  110 | Avg Reward: -1276.73 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  120 | Avg Reward: -1214.88 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1320.33
+Episode  130 | Avg Reward: -1032.00 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  140 | Avg Reward: -1222.83 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  150 | Avg Reward: -1337.90 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1213.72
+Episode  160 | Avg Reward: -1335.66 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  170 | Avg Reward: -1300.44 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1283.35
+Episode  180 | Avg Reward: -1277.48 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  190 | Avg Reward: -1204.00 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  200 | Avg Reward: -1078.00 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1279.95
+Episode  210 | Avg Reward: -1341.70 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  220 | Avg Reward: -1347.27 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1349.15
+Episode  230 | Avg Reward: -1316.12 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  240 | Avg Reward: -1289.23 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+Episode  250 | Avg Reward: -1198.62 | Q diag: [0.0183, 0.0183] | R diag: [0.1353, 0.1353]
+  → Eval (10 eps): -1261.17
+Episode  260 | Avg Reward: -1418.76 | Q diag: [0.0214, 0.0228] | R diag: [0.1071, 0.1620]
+Episode  270 | Avg Reward: -1160.16 | Q diag: [0.0306, 0.1666] | R diag: [0.0979, 0.3062]
+  → Eval (10 eps): -1450.88
+Episode  280 | Avg Reward: -1516.71 | Q diag: [0.0129, 0.4513] | R diag: [0.0476, 0.2026]
+Episode  290 | Avg Reward: -1306.07 | Q diag: [0.0059, 0.5871] | R diag: [0.0219, 0.1201]
+Episode  300 | Avg Reward: -1323.69 | Q diag: [0.0032, 0.7593] | R diag: [0.0110, 0.0577]
+  → Eval (10 eps): -1407.81
+Episode  310 | Avg Reward: -1426.05 | Q diag: [0.0020, 0.8997] | R diag: [0.0068, 0.0544]
+Episode  320 | Avg Reward: -1212.99 | Q diag: [0.0019, 1.7570] | R diag: [0.0057, 0.0446]
+  → Eval (10 eps): -771.81
+Episode  330 | Avg Reward: -1032.54 | Q diag: [0.0015, 2.1520] | R diag: [0.0079, 0.0076]
+Episode  340 | Avg Reward: -1090.03 | Q diag: [0.0013, 2.4019] | R diag: [0.0130, 0.0050]
+Episode  350 | Avg Reward:  -872.58 | Q diag: [0.0013, 2.6171] | R diag: [0.0101, 0.0068]
+  → Eval (10 eps): -793.64
+Episode  360 | Avg Reward:  -794.15 | Q diag: [0.0013, 2.5562] | R diag: [0.0126, 0.0074]
+Episode  370 | Avg Reward:  -361.80 | Q diag: [0.0010, 2.2845] | R diag: [0.0152, 0.0161]
+  → Eval (10 eps): -239.87
+Episode  380 | Avg Reward:  -288.35 | Q diag: [0.0010, 2.6586] | R diag: [0.0120, 0.0927]
+Episode  390 | Avg Reward:  -316.12 | Q diag: [0.0013, 3.4023] | R diag: [0.0107, 0.1171]
+Episode  400 | Avg Reward:  -189.00 | Q diag: [0.0023, 5.4668] | R diag: [0.0111, 0.1093]
+  → Eval (10 eps): -141.69
+Episode  410 | Avg Reward:  -233.21 | Q diag: [0.0039, 8.4828] | R diag: [0.0113, 0.0951]
+Episode  420 | Avg Reward:  -358.36 | Q diag: [0.0052, 11.0167] | R diag: [0.0112, 0.0398]
+  → Eval (10 eps): -191.10
+Episode  430 | Avg Reward:  -112.45 | Q diag: [0.0037, 8.1911] | R diag: [0.0065, 0.0390]
+Episode  440 | Avg Reward:  -209.90 | Q diag: [0.0030, 5.8090] | R diag: [0.0043, 0.0094]
+Episode  450 | Avg Reward:  -325.84 | Q diag: [0.0019, 3.8212] | R diag: [0.0028, 0.0087]
+  → Eval (10 eps): -211.77
+Episode  460 | Avg Reward:  -199.38 | Q diag: [0.0015, 2.7113] | R diag: [0.0015, 0.0113]
+Episode  470 | Avg Reward:  -235.64 | Q diag: [0.0016, 2.6116] | R diag: [0.0013, 0.0086]
+  → Eval (10 eps): -190.59
+Episode  480 | Avg Reward:  -168.03 | Q diag: [0.0021, 3.6680] | R diag: [0.0011, 0.0089]
+Episode  490 | Avg Reward:  -212.40 | Q diag: [0.0020, 4.6989] | R diag: [0.0009, 0.0124]
+Episode  500 | Avg Reward:   -99.04 | Q diag: [0.0021, 5.6445] | R diag: [0.0014, 0.0108]
+  → Eval (10 eps): -172.30
+
+==================================================
+Final learned EKF parameters:
+Q (process noise):
+[[ 2.0722616e-03 -6.9415048e-02]
+ [-6.9415048e-02  5.6444778e+00]]
+R (measurement noise):
+[[ 0.00135307 -0.00288514]
+ [-0.00288514  0.01083736]]
